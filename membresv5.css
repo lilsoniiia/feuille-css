@@ -14,9 +14,23 @@
 nommm{font-size:11px;font-family:'Roboto', sans-serif;text-transform:uppercase;color: #fff;font-weight: 700;letter-spacing: 1px;display:block;
 border-radius:25px;background-image: -webkit-linear-gradient(-40deg,#93b6c6,#ef9a8a)!important;}
 
-.membreswom {text-align:center;font-family:'karla'; font-size:20px;color:#FFF;padding:10px;}
+.membreswom {text-align:center;font-family:'karla'; font-size:20px;color:#93b6c6;padding:10px;}
 
 .td-membres {display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;padding: 20px;}
+
+.user-search label {
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  padding: 4px 8px;
+  border-radius: 25px;
+  background-image: -webkit-linear-gradient(-40deg, #93b6c6, #ef9a8a);
+  display: inline-block;
+  margin-bottom: 5px;
+}
 
 .tablemembre{background-color:#fffaf2;
 border-radius:25px;
