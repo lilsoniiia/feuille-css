@@ -12,19 +12,19 @@
 .lmnom strong {color: #fff!important;font-weight: 400!important;}
 .humeur {font-family: Abel, sans-serif;text-transform:uppercase; font-size:10px;margin-top:-5px;color: #fff;width: 130px !important;}
 nommm{font-size:11px;font-family:'Roboto', sans-serif;text-transform:uppercase;color: #fff;font-weight: 700;letter-spacing: 1px;display:block;
-border-radius:25px;background-image: -webkit-linear-gradient(-40deg,#93b6c6,#ef9a8a)!important;}
+border-radius:25px;background-image: -webkit-linear-gradient(-40deg,#e4b8b4,#dac888)!important;}
 
 .membreswom {text-align:center;font-family:'karla'; font-size:20px;color:#FFF;padding:10px;}
 
 .td-membres {display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;padding: 20px;}
 
-.tablemembre{background-color:#fffaf2;
+.tablemembre{background-color:#f3dfdb;
 border-radius:25px;
 background-image:
-radial-gradient(at 20% 25%, #F6DFC2 0px, transparent 55%),
-radial-gradient(at 75% 20%, #F2C98F 0px, transparent 50%),
-radial-gradient(at 60% 55%, #FFF1DD 0px, transparent 50%),
-radial-gradient(at 85% 75%, #DDBB9A 0px, transparent 45%),
-radial-gradient(at 15% 80%, #E8CFAE 0px, transparent 55%),
-radial-gradient(at 5% 5%, #F4D7A1 0px, transparent 55%);}
+radial-gradient(at 20% 25%, #a3bf86 0px, transparent 55%),  
+radial-gradient(at 75% 20%, #b7d6b2 0px, transparent 50%), 
+radial-gradient(at 60% 55%, #c9e4d6 0px, transparent 50%), 
+radial-gradient(at 85% 75%, #7d9154 0px, transparent 45%),
+radial-gradient(at 15% 80%, #92a872 0px, transparent 55%),
+radial-gradient(at 5% 5%, #5c6d4a 0px, transparent 55%);}
 /*FIN LISTE DES MEMBRES*/
