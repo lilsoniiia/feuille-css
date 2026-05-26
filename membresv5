@@ -1,0 +1,30 @@
+/*****LISTE DES MEMBRES *****/
+.lmback {text-align:center; font-family:arial; text-transform:lowercase; font-size:70px; letter-spacing:-6px; color:#649f96;}
+.lmfond {padding:5px; width:160px;float:left;background: rgba(255,255,255,0.4);border-radius:5px;margin-top:10px;margin-bottom:10px;}
+.lmava {width:160px; height:220px; overflow:hidden;}
+.lmava img {width:160px; height:220px;border-radius:5px;}
+.lmimg {transition: all 600ms ease;}
+.lmava:hover .lmimg {margin-top:-220px;}
+.lmdet {width:130px; height:200px; padding:5px;}
+.lmdetin {margin-top:6px;text-transform:lowercase; font-size:10px; font-family:'Roboto', sans-serif; color:#424242;padding:2px;}
+.lmnom {margin-top:5px;padding:2px;border-radius:5px;height: 30px;line-height: 30px;}
+.lmnom a {font-family: 'Roboto Condensed', sans-serif;letter-spacing: -1px;font-size: 15px;word-spacing: 1px;text-transform: uppercase;}
+.lmnom strong {color: #fff!important;font-weight: 400!important;}
+.humeur {font-family: Abel, sans-serif;text-transform:uppercase; font-size:10px;margin-top:-5px;color: #fff;width: 130px !important;}
+nommm{font-size:11px;font-family:'Roboto', sans-serif;text-transform:uppercase;color: #fff;font-weight: 700;letter-spacing: 1px;display:block;
+border-radius:25px;background-image: -webkit-linear-gradient(-40deg,#93b6c6,#ef9a8a)!important;}
+
+.membreswom {text-align:center;font-family:'karla'; font-size:20px;color:#FFF;padding:10px;}
+
+.td-membres {display: flex;flex-wrap: wrap;justify-content: center;gap: 20px;padding: 20px;}
+
+.tablemembre{background-color:#fffaf2;
+border-radius:25px;
+background-image:
+radial-gradient(at 20% 25%, #F6DFC2 0px, transparent 55%),
+radial-gradient(at 75% 20%, #F2C98F 0px, transparent 50%),
+radial-gradient(at 60% 55%, #FFF1DD 0px, transparent 50%),
+radial-gradient(at 85% 75%, #DDBB9A 0px, transparent 45%),
+radial-gradient(at 15% 80%, #E8CFAE 0px, transparent 55%),
+radial-gradient(at 5% 5%, #F4D7A1 0px, transparent 55%);}
+/*FIN LISTE DES MEMBRES*/
